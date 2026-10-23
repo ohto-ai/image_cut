@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+myenv/
+
+# 测试临时输出
+out/
+*.tmp.png
